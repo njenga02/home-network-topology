@@ -58,4 +58,4 @@ A shared peripheral device on the network, allowing any authorized device on the
 - Router admin panel for device/IP discovery
 
 ## Author
-[Your Name] — Kiriri Women's University of Science and Technology, Dept. of Computer Science & IT
+[Janet wanjiru] — Kiriri Women's University of Science and Technology, Dept. of Computer Science & IT
